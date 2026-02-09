@@ -1,0 +1,4 @@
+proper handling for failed curl requests at all points
+allow account class to fill up credentials from a file
+consider altering to string_view arguments
+proper logging
